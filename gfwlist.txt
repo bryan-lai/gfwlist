@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+>>>>>>> 57deb09 (no message)
 payoneer.access.proofpoint.com
 rarbg.is
 techcrunch.com
